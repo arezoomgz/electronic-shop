@@ -1,10 +1,7 @@
-@font-face{
-    font-family: bnazanin;
-    src: url(../fonts/BNAZANB.TTF);
-}
+
 *{
     direction: rtl;
-    font-family: bnazanin;
+
     box-sizing: border-box;
 }
 body{
